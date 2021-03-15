@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+}
+
+div{
+    margin-top: 15px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
